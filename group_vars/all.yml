@@ -1,0 +1,2 @@
+# Option de connection ssh valable pour toutes les machines
+ansible_ssh_extra_args: '-o StrictHostKeyChecking=no'
