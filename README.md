@@ -1,4 +1,4 @@
-# miniprojet_ansible
+# Installation d'apache via ansible
 
 - Sur ce mini projet, il etait question d'ecrire un rôle ansible pour ensuite l'appeler dans un playbook
 
